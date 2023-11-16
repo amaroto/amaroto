@@ -1,7 +1,8 @@
 Hey, my name is Alejandro Maroto 👋
-### Full-stack engineer
 
-![https://github.com/amaroto](https://avatars.githubusercontent.com/u/10233939?v=4)
+💁💻🇪🇸
+
+# Full-stack developer
 
 I full-stack developer began in 2016, and since then, I've navigated the diverse landscapes of front-end and back-end development. 
 
