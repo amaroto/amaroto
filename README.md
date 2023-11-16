@@ -8,7 +8,7 @@ I full-stack developer began in 2016, and since then, I've navigated the diverse
 
 Fueled by an innate curiosity for technology, I've dedicated myself to mastering an array of programming languages, frameworks, and tools. 
 
-My expertise lies in seamlessly blending user-centric designs with robust back-end solutions. 
+My expertise in seamlessly blending user-centric designs with robust back-end solutions. 
 
 I thrive in collaborative settings, channeling my experience to drive innovation and deliver impactful outcomes across projects.
 
