@@ -6,12 +6,6 @@ Hey, my name is Alejandro Maroto 👋
 
 I full-stack developer began in 2016, and since then, I've navigated the diverse landscapes of front-end and back-end development. 
 
-Fueled by an innate curiosity for technology, I've dedicated myself to mastering an array of programming languages, frameworks, and tools. 
-
-My expertise in seamlessly blending user-centric designs with robust back-end solutions. 
-
-I thrive in collaborative settings, channeling my experience to drive innovation and deliver impactful outcomes across projects.
-
 ## Skills:
 [![PHP](https://img.shields.io/badge/PHP-999999?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 </br>
